@@ -1,2 +1,2 @@
 # conscious-game
-New project me and Ryon are working on
+Game like superhot but you can control every enemy npc
